@@ -1,0 +1,529 @@
+{
+  "politicians": [
+    {
+      "name": "Maximilian Reimann",
+      "twittername": "@maximilian_rei",
+      "partei": "SVP"
+    },
+    {
+      "name": "Yves Nidegger",
+      "twittername": "@YvesNidegger",
+      "partei": "SVP"
+    },
+    {
+      "name": "Hansjörg Knecht",
+      "twittername": "@HansjoergKnecht",
+      "partei": "SVP"
+    },
+    {
+      "name": "Thomas Hardegger",
+      "twittername": "@th_hardegger",
+      "partei": "SP"
+    },
+    {
+      "name": "Kathrin Bertschy",
+      "twittername": "@kathrinbertschy",
+      "partei": "GLP"
+    },
+    {
+      "name": "Christian Luscher",
+      "twittername": "@CLuscher",
+      "partei": "FDP"
+    },
+    {
+      "name": "Adèle Thorens",
+      "twittername": "@adelethorens",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Claudia Friedl",
+      "twittername": "@claufriedl",
+      "partei": "SP"
+    },
+    {
+      "name": "Chantal Galladé",
+      "twittername": "@ChantalGallade",
+      "partei": "SP"
+    },
+    {
+      "name": "Barbara Gysi",
+      "twittername": "@BaGysi",
+      "partei": "SP"
+    },
+    {
+      "name": "Robert Cramer",
+      "twittername": "@RobertCramer_GE",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Alfred Heer",
+      "twittername": "@AlfredHeer",
+      "partei": "SVP"
+    },
+    {
+      "name": "Werner Hösli",
+      "twittername": "@Werner_Hoesli",
+      "partei": "SVP"
+    },
+    {
+      "name": "Adrian Amstutz",
+      "twittername": "@AdrianAmstutz",
+      "partei": "SVP"
+    },
+    {
+      "name": "Maja Ingold",
+      "twittername": "@MajaIngold",
+      "partei": "EVP"
+    },
+    {
+      "name": "Marianne Streiff",
+      "twittername": "@MarianneStreiff",
+      "partei": "EVP"
+    },
+    {
+      "name": "Rossini Stéphane",
+      "twittername": "@SteRossini63",
+      "partei": "SP"
+    },
+    {
+      "name": "Lorenz Hess",
+      "twittername": "@LorenzHess",
+      "partei": "BDP"
+    },
+    {
+      "name": "Regula Rytz",
+      "twittername": "@RegulaRytz",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Christine Bulliard",
+      "twittername": "@BulliardMarbach",
+      "partei": "CVP"
+    },
+    {
+      "name": "Verena Herzog",
+      "twittername": "@verenaherzog",
+      "partei": "SVP"
+    },
+    {
+      "name": "Daniel Vischer",
+      "twittername": "@DanielVischerNR",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Oskar Freysinger",
+      "twittername": "@OskarFreysinger",
+      "partei": "SVP"
+    },
+    {
+      "name": "Nadine Masshardt",
+      "twittername": "@nmasshardt",
+      "partei": "SP"
+    },
+    {
+      "name": "Thomas Hurter",
+      "twittername": "@HurterThomas",
+      "partei": "SVP"
+    },
+    {
+      "name": "Eric Nussbaumer",
+      "twittername": "@enussbi",
+      "partei": "SP"
+    },
+    {
+      "name": "Yvette Estermann",
+      "twittername": "@Yvette67Yvette",
+      "partei": "SVP"
+    },
+    {
+      "name": "Fabio Regazzi",
+      "twittername": "@fregazzi",
+      "partei": "CVP"
+    },
+    {
+      "name": "Marina Carobbio",
+      "twittername": "@MarinaCarobbio",
+      "partei": "SP"
+    },
+    {
+      "name": "Maire Jacques-André",
+      "twittername": "@MaireJack",
+      "partei": "SP"
+    },
+    {
+      "name": "Filippo Lombardi",
+      "twittername": "@lombardi1956",
+      "partei": "CVP"
+    },
+    {
+      "name": "Martina Munz",
+      "twittername": "@MartinaMunz",
+      "partei": "SP"
+    },
+    {
+      "name": "Roger Nordmann",
+      "twittername": "@NordmannRoger",
+      "partei": "SP"
+    },
+    {
+      "name": "Martin Landolt",
+      "twittername": "@LandoltMartin",
+      "partei": "BDP"
+    },
+    {
+      "name": "Dominique de Buman",
+      "twittername": "@DdeBuman",
+      "partei": "CVP"
+    },
+    {
+      "name": "Valérie Piller",
+      "twittername": "@Valerie_Piller",
+      "partei": "SP"
+    },
+    {
+      "name": "Fathi Derder",
+      "twittername": "@fderder",
+      "partei": "FDP"
+    },
+    {
+      "name": "Graber Konrad",
+      "twittername": "@GraberKonrad",
+      "partei": "CVP"
+    },
+    {
+      "name": "Ada Marra",
+      "twittername": "@ada_marra",
+      "partei": "SP"
+    },
+    {
+      "name": "Roland Fischer",
+      "twittername": "@RolaFir",
+      "partei": "GLP"
+    },
+    {
+      "name": "Ulrich Giezendanner",
+      "twittername": "@UGiezendanner",
+      "partei": "SVP"
+    },
+    {
+      "name": "Paul Rechsteiner",
+      "twittername": "@PaulRechsteiner",
+      "partei": "SP"
+    },
+    {
+      "name": "Cesla Amarelle",
+      "twittername": "@CeslaAmarelle",
+      "partei": "SP"
+    },
+    {
+      "name": "Christoph Mörgeli",
+      "twittername": "@ChrMoergeli",
+      "partei": "SVP"
+    },
+    {
+      "name": "Manuel Tornare",
+      "twittername": "@ManuelTornare",
+      "partei": "SP"
+    },
+    {
+      "name": "Pierre Rusconi",
+      "twittername": "@PierreRusconi",
+      "partei": "SVP"
+    },
+    {
+      "name": "Jürg Grossen",
+      "twittername": "@Juerg_Grossen",
+      "partei": "GLP"
+    },
+    {
+      "name": "Stefan Müller",
+      "twittername": "@MullerAltermatt",
+      "partei": "CVP"
+    },
+    {
+      "name": "Ida Glanzmann",
+      "twittername": "@idamicha",
+      "partei": "CVP"
+    },
+    {
+      "name": "Andrea Caroni",
+      "twittername": "@AndreaCaroniAR",
+      "partei": "FDP"
+    },
+    {
+      "name": "Mathias Reynard",
+      "twittername": "@MathiasReynard",
+      "partei": "SP"
+    },
+    {
+      "name": "LilianeMauryPasquier",
+      "twittername": "@votrevoix",
+      "partei": "SP"
+    },
+    {
+      "name": "Petra Gössi",
+      "twittername": "@PetraGoessi",
+      "partei": "FDP"
+    },
+    {
+      "name": "Luzi Stamm",
+      "twittername": "@LuziStamm",
+      "partei": "SVP"
+    },
+    {
+      "name": "Roberta Pantani",
+      "twittername": "@RobiPanta",
+      "partei": "Lega"
+    },
+    {
+      "name": "Leutenegger Oberholz",
+      "twittername": "@SusanneSlo",
+      "partei": "SP"
+    },
+    {
+      "name": "Christian Lohr",
+      "twittername": "@Ch_Lohr",
+      "partei": "CVP"
+    },
+    {
+      "name": "Lorenzo Quadri",
+      "twittername": "@LorenzQuadri",
+      "partei": "Lega"
+    },
+    {
+      "name": "Filippo Leutenegger",
+      "twittername": "@F_Leutenegger",
+      "partei": "FDP"
+    },
+    {
+      "name": "Ruedi Noser",
+      "twittername": "@RuediNoser",
+      "partei": "FDP"
+    },
+    {
+      "name": "Silvia Schenker",
+      "twittername": "@SchenkerSilvia",
+      "partei": "SP"
+    },
+    {
+      "name": "Matthias Aebischer",
+      "twittername": "@M_Aebischer",
+      "partei": "SP"
+    },
+    {
+      "name": "Guillaume Barazzone",
+      "twittername": "@BarazzoneG",
+      "partei": "CVP"
+    },
+    {
+      "name": "Ueli Leuenberger",
+      "twittername": "@thegreenpreside",
+      "partei": "Grüne"
+    },
+    {
+      "name": "DidierBerberat",
+      "twittername": "@berberatdidier",
+      "partei": "SP"
+    },
+    {
+      "name": "Yannick Buttet",
+      "twittername": "@ybuttet",
+      "partei": "CVP"
+    },
+    {
+      "name": "aline trede",
+      "twittername": "@alinetrede",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Elisabeth Schneider",
+      "twittername": "@Elisabeth_S_S",
+      "partei": "CVP"
+    },
+    {
+      "name": "Edith Graf-Litscher",
+      "twittername": "@EdithGraf",
+      "partei": "SP"
+    },
+    {
+      "name": "Jean Chr. Schwaab",
+      "twittername": "@jcschwaab",
+      "partei": "SP"
+    },
+    {
+      "name": "Pascale Bruderer",
+      "twittername": "@PascaleBruderer",
+      "partei": "SP"
+    },
+    {
+      "name": "Yvonne Feri",
+      "twittername": "@yferi",
+      "partei": "SP"
+    },
+    {
+      "name": "Christa Markwalder",
+      "twittername": "@ChristaMarkwald",
+      "partei": "FDP"
+    },
+    {
+      "name": "Theiler Georges",
+      "twittername": "@GTheiler",
+      "partei": "FDP"
+    },
+    {
+      "name": "Evi Allemann",
+      "twittername": "@eviallemann",
+      "partei": "SP"
+    },
+    {
+      "name": "Christophe Darbellay",
+      "twittername": "@C_Darbellay",
+      "partei": "CVP"
+    },
+    {
+      "name": "Brigitte Häberli",
+      "twittername": "@B_Haeberli",
+      "partei": "CVP"
+    },
+    {
+      "name": "Jean-FrançoisSteiert",
+      "twittername": "@steiertjf",
+      "partei": "SP"
+    },
+    {
+      "name": "Pirmin Bischof",
+      "twittername": "@PirminBischof",
+      "partei": "CVP"
+    },
+    {
+      "name": "Natalie Rickli",
+      "twittername": "@NatalieRickli",
+      "partei": "SVP"
+    },
+    {
+      "name": "Jacqueline Fehr",
+      "twittername": "@jacquelinefehr",
+      "partei": "SP"
+    },
+    {
+      "name": "Carlo Sommaruga",
+      "twittername": "@CarloSommaruga",
+      "partei": "SP"
+    },
+    {
+      "name": "Isabelle Moret",
+      "twittername": "@IsabelleMoret",
+      "partei": "SP"
+    },
+    {
+      "name": "Isabelle Chevalley",
+      "twittername": "@I_Chevalley",
+      "partei": "GLP"
+    },
+    {
+      "name": "Jacques Neirynck",
+      "twittername": "@NeirynckJ",
+      "partei": "CVP"
+    },
+    {
+      "name": "Beat Flach",
+      "twittername": "@beatflach",
+      "partei": "GLP"
+    },
+    {
+      "name": "Bernhard Guhl",
+      "twittername": "@BernhardGuhl",
+      "partei": "BDP"
+    },
+    {
+      "name": "Yvonne Gilli",
+      "twittername": "@YvonneGilli",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Kathy Riklin, Zürich",
+      "twittername": "@KathyRiklin",
+      "partei": "CVP"
+    },
+    {
+      "name": "Roberto Zanetti",
+      "twittername": "@zanettiroberto",
+      "partei": "SP"
+    },
+    {
+      "name": "Philipp HADORN",
+      "twittername": "@PhilippHadorn",
+      "partei": "SP"
+    },
+    {
+      "name": "Viola Amherd",
+      "twittername": "@Violapamherd",
+      "partei": "CVP"
+    },
+    {
+      "name": "Bea Heim",
+      "twittername": "@beaheim",
+      "partei": "SP"
+    },
+    {
+      "name": "Toni Brunner",
+      "twittername": "@SVPBrunner",
+      "partei": "SVP"
+    },
+    {
+      "name": "Christian Wasserfallen",
+      "twittername": "@cwasi",
+      "partei": "FDP"
+    },
+    {
+      "name": "Marco Romano",
+      "twittername": "@MarcoRomanoPPD",
+      "partei": "CVP"
+    },
+    {
+      "name": "Jacqueline Badran",
+      "twittername": "@JayBadran",
+      "partei": "SP"
+    },
+    {
+      "name": "Schmid Federer",
+      "twittername": "@SchmidFederer",
+      "partei": "CVP"
+    },
+    {
+      "name": "Christian Levrat",
+      "twittername": "@ChristianLevrat",
+      "partei": "SP"
+    },
+    {
+      "name": "Hugues Hiltpold",
+      "twittername": "@hhiltpold",
+      "partei": "FDP"
+    },
+    {
+      "name": "Felix Gutzwiller",
+      "twittername": "@FelixGutzwiller",
+      "partei": "FDP"
+    },
+    {
+      "name": "Lukas Reimann",
+      "twittername": "@lukasreimann",
+      "partei": "SVP"
+    },
+    {
+      "name": "Cédric Wermuth",
+      "twittername": "@cedricwermuth",
+      "partei": "SP"
+    },
+    {
+      "name": "Balthasar Glättli",
+      "twittername": "@bglaettli",
+      "partei": "Grüne"
+    },
+    {
+      "name": "Bastien Girod",
+      "twittername": "@bastiengirod",
+      "partei": "Grüne"
+    }
+  ]
+}
